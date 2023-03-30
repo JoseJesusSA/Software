@@ -1,0 +1,5 @@
+build/default/production/_ext/1160731302/mcu.o:  \
+	C:/Users/CHAVYS/Documents/MPLabx/FLTDECKLT_EPWM.X/mcu.c  \
+	C:/Users/CHAVYS/Documents/MPLabx/FLTDECKLT_EPWM.X/utils.h  \
+	C:/Users/CHAVYS/Documents/MPLabx/FLTDECKLT_EPWM.X/mcu.h  \
+
