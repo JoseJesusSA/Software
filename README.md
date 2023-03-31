@@ -21,4 +21,4 @@ FLTDECKLT_POT.X
  Versión anterior de FLTDECKLT.X
  
 Control_Luz.c
- Controla y registra los eventos de las transiciones configurables del día.
+ Controla y registra los eventos y las transiciones configurables del día.
