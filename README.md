@@ -4,8 +4,21 @@
  CM-2-WHEEL.X
   Sistema embebido para controlar funciones de un volante de un simulador CASA-295.
  
- CONTROL-LUCE-AJUSTABLE_CM1
-  Control para el sistema de luces para una cabina de un simulador CASA-295, estas luces se atenuan.
+ CONTROL-LUCE-AJUSTABLE_CM1.X
+  Enciende/Apaga y controla la luminosidad de las luces integradas en una cabina de un simulador CASA-295.
   
- CONTROL-LUCES-INSTRUMENTOS
-  On/Off para las luces de panel de instrumentos
+ CONTROL-LUCES-INSTRUMENTOS.X
+  Enciende/Apaga las luces integradas en los instrumentos.
+  
+FLTDECKLT.X
+ Enciende y controla la luminosidad de las luces integradas en los paneles
+
+FLTDECKLT_CAN0ms.X
+ Versión anterior de FLTDECKLT.X
+FLTDECKLT_EPWM.X
+ Versión anterior de FLTDECKLT.X
+FLTDECKLT_POT.X
+ Versión anterior de FLTDECKLT.X
+ 
+Control_Luz.c
+ Controla y registra eventos las transiciones configurables del día.
