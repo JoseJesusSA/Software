@@ -2,7 +2,7 @@
  Algunos proyectos en los que he participado.
  
  CM-2-WHEEL.X
-  Sistema embebido para controlar funciones de un volante de un simulador CASA-295.
+  Sistema embebido para controlar funciones de interfaz de un volante para un simulador CASA-295.
  
  CONTROL-LUCE-AJUSTABLE_CM1.X
   Enciende/Apaga y controla la luminosidad de las luces integradas en una cabina de un simulador CASA-295.
